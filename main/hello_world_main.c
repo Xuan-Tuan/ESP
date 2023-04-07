@@ -11,7 +11,7 @@
 #include "freertos/task.h"
 #include "esp_chip_info.h"
 #include "esp_flash.h"
-
+// toi yeu viet nam
 void app_main(void)
 {
     printf("Hello world!\n");
